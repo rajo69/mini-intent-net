@@ -1,0 +1,9 @@
+# Core libraries
+networkx
+numpy
+matplotlib
+
+# DRL library
+stable-baselines3[extra]
+# Gym is a dependency of stable-baselines3
+gym
